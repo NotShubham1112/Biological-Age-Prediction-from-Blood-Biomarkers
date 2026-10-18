@@ -2,6 +2,8 @@
 
 **Interpretable and Generalizable Biological Age Prediction from Routine Blood Biomarkers: Multi-Cohort Evaluation, Uncertainty Quantification, and Pathway-Level Insights**
 
+*By **Shubham N Kambli***
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![Colab](https://img.shields.io/badge/Google%20Colab-ready-orange)](https://colab.research.google.com/)
 [![NHANES](https://img.shields.io/badge/Data-NHANES%201999%E2%80%932018-green)](https://www.cdc.gov/nchs/nhanes/)
@@ -203,6 +205,6 @@ MIT — see [LICENSE](LICENSE).
 
 ## 🤝 Contact
 
-Open an issue, or reach out via [GitHub](https://github.com/NotShubham1112).
+**Shubham N Kambli** — open an issue, or reach out via [GitHub](https://github.com/NotShubham1112).
 
 *Built as a research portfolio project — designed to grow into a conference/workshop paper.*
